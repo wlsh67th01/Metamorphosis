@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+
+.words{
+    width:2000px;
+    height:81px;
+   /* background-color: aqua;*/
+    position: absolute;
+    top:0%;
+    left:0%;
+}
+.words:hover{
+    background-color: lightblue;
+    opacity: 0.6;
+    transition: 1.5s;
+}
+h1{
+    color:rgb(254, 53, 170);
+    font-family: Stencil Std;
+}
